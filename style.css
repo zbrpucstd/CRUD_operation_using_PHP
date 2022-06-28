@@ -1,0 +1,49 @@
+
+        .container{
+            width: 500px;
+            height: 400px;
+            margin: 0 auto;
+            text-align: center;
+            margin-top: 50px;
+        }
+        input{
+            border: 2px solid black;
+            width: 90%;
+            padding: 8px;
+        }
+        select{
+            border: 2px solid black;
+            width: 90%;
+            padding: 8px;
+        }
+        button{
+            background: black;
+            width: 90%;
+            padding: 10px 20px;
+            color: white;
+            font-size: 1.2rem;
+        }
+        h1{
+            background: black;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        table,th,td{
+            border: 1px solid black;
+            border-collapse: collapse;
+            text-align: center;
+        }
+        table{
+            margin-left: auto;
+            margin-right: auto;
+        }
+        a{
+            text-decoration: none;
+            
+        }
+        a:hover{
+            color: darkblue;
+            cursor: pointer;
+        }
+    
